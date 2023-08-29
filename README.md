@@ -1,1 +1,1 @@
-My first readme
+Of course we are learing
